@@ -1,3 +1,0 @@
-C:\Users\bakie\Desktop\Projeler\c++_projects\raylib_sand_falling_sim\x64\Debug\raylib.dll
-C:\Users\bakie\Desktop\Projeler\c++_projects\raylib_sand_falling_sim\x64\Debug\glfw3.dll
-C:\Users\bakie\Desktop\Projeler\c++_projects\raylib_sand_falling_sim\raylib_s.3bc3f6e0\x64\Debug\raylib_s.2FEE9741.Up2Date
