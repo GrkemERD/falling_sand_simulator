@@ -1,5 +1,16 @@
-.vs/ 
-[Bb]in/ 
-[Oo]bj/ 
-*.exe 
-*.user 
+# Visual Studio Geçici Dosyaları
+.vs/
+[Xx]64/
+[Dd]ebug/
+[Rr]elease/
+
+# Derleme Klasörleri (Senin paylaştığın özel isimli klasör dahil)
+raylib_s.3bc3f6e0/
+
+# Kullanıcıya özel ayarlar
+*.user
+
+# Derlenmiş dosyalar
+*.exe
+*.pdb
+*.ilk
